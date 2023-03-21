@@ -10,7 +10,7 @@
 -  Know about my experiences [https://www.linkedin.com/in/nikita-kocherinskii-6785ba237/](https://www.linkedin.com/in/nikita-kocherinskii-6785ba237/)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">My socials:</h3>
   <p align="left">
     <a href="https://linkedin.com/in/nikita kocherinskii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nikita kocherinskii" height="30" width="40" /></a>
     <a href="https://www.leetcode.com/neekitochka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="neekitochka" height="30" width="40" /></a>
