@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nikita Kocherinskii</h1>
+<h1 align="center">Hello, I'm Nikita Kocherinskii</h1>
 <h3 align="center">Junior FrontEnd Developer from Moscow, Russia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikitakocherinskiy&label=Profile%20views&color=0e75b6&style=flat" alt="nikitakocherinskiy" /> </p>
