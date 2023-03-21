@@ -22,4 +22,4 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitakocherinskiy&show_icons=true&theme=synthwave)
+                    ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikitakocherinskiy&show_icons=true&theme=synthwave)
