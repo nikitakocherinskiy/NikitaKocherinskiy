@@ -1,13 +1,13 @@
-Hi 👋 My name is Nikita Kocherinskii
+Hi, My name is Nikita Kocherinskii
 ====================================
 
 Junior Frontend Developer
 -------------------------
 
-* 🌍  I'm based in Moscow, Russia
-* ✉️  You can contact me at [nik.koch.67@yandex.ru](mailto:nik.koch.67@yandex.ru)
-* 🧠  I'm learning Next.js, Nest.js, Redux Toolkit, Docker, Kubernetes
-* ⚡  I am a student at BMSTU
+*  I'm based in Moscow, Russia
+*  You can contact me at [nik.koch.67@yandex.ru](mailto:nik.koch.67@yandex.ru)
+*  I'm learning Next.js, Nest.js, Redux Toolkit, Docker, Kubernetes
+*  I am a student at BMSTU
 
 ### Skills
 
